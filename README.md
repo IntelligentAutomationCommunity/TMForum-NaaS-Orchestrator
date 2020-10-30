@@ -2,7 +2,7 @@
 This repository contains the implementation of the TMForum Service Problem Management NaaS Orchestrator that was demonstrated at TM Forum DTWS 2020
 
 ## Summary
-This package supports the following operations as defined in the [TM Forum Service Problem Maagement API specification](https://projects.tmforum.org/wiki/download/attachments/110144737/TMF656_Service_Problem_Management_API_REST_Specification_R18.5.0.pdf?api=v2)
+This package supports the following operations as defined in the [TM Forum Service Problem Management API specification](https://projects.tmforum.org/wiki/download/attachments/110144737/TMF656_Service_Problem_Management_API_REST_Specification_R18.5.0.pdf?api=v2)
 * Register Listener
 * Unregister Listener
 * Create Service Problem
